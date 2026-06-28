@@ -1,0 +1,133 @@
+## What This Project Does
+ 
+MindGuard analyzes your daily journal entries using NLP and Machine Learning
+to detect early signs of burnout and provide personalized recovery suggestions.
+ 
+**Flow:**
+```
+Write Journal → NLP Analysis → ML Prediction → Score + Reasons → Recovery Plan
+```
+ 
+---
+ 
+## Tech Stack
+ 
+### Frontend
+| Technology | Version | Purpose |
+|---|---|---|
+| React | 18.x | UI framework |
+| Vite | 5.x | Build tool and dev server |
+| Framer Motion | 11.x | Page transitions and animations |
+| Three.js | 0.163.x | 3D brain orb visualization |
+| @react-three/fiber | 8.x | React wrapper for Three.js |
+| @react-three/drei | 9.x | Three.js helpers |
+| Recharts | 2.x | Burnout and trend charts |
+| Lucide React | 0.363.x | Icons |
+| Axios | 1.x | HTTP requests (some pages) |
+ 
+### Backend
+| Technology | Version | Purpose |
+|---|---|---|
+| Python | 3.9+ | Backend language |
+| FastAPI | 0.110.0 | REST API framework |
+| Uvicorn | 0.29.0 | ASGI server |
+| NLTK | 3.8.1 | NLP toolkit |
+| VADER (NLTK) | built-in | Sentiment analysis |
+| TextBlob | 0.18.0 | Polarity and subjectivity |
+| scikit-learn | 1.4.2 | Random Forest ML model |
+| NumPy | 1.26.4 | Numerical computation |
+| Pandas | 2.2.1 | Data handling |
+ 
+### Storage
+| Technology | Purpose |
+|---|---|
+| JSON file (data_store.json) | Stores last 30 journal entries locally |
+| Pickle file (burnout_model.pkl) | Stores trained ML model |
+ 
+---
+ 
+## Project Structure
+ 
+```
+mindguard/
+├── backend/
+│   ├── venv/                        # Python virtual environment
+│   └── app/
+│       ├── main.py                  # FastAPI app entry point
+│       ├── data_store.json          # Entry history storage
+│       ├── routers/
+│       │   ├── __init__.py
+│       │   └── analyze.py           # API endpoints
+│       └── services/
+│           ├── __init__.py
+│           ├── nlp_engine.py        # NLP pipeline (preprocessing + emotion + patterns)
+│           ├── ml_predictor.py      # Random Forest model + prediction
+│           ├── recommender.py       # Dynamic recommendations + recovery plan
+│           └── burnout_model.pkl    # Saved trained model (auto-generated)
+│
+└── frontend/
+    ├── src/
+    │   ├── App.jsx                  # Main app + routing
+    │   ├── index.css                # Global styles
+    │   ├── main.jsx                 # React entry point
+    │   ├── pages/
+    │   │   ├── LandingPage.jsx      # Home page
+    │   │   ├── JournalPage.jsx      # Journal input form
+    │   │   ├── Dashboard.jsx        # Results + score display
+    │   │   ├── InsightsPage.jsx     # Trend charts
+    │   │   └── RecoveryPage.jsx     # Daily recovery plan
+    │   └── components/
+    │       ├── Navbar.jsx           # Navigation bar
+    │       └── BrainOrb.jsx         # 3D animated sphere
+    ├── vite.config.js               # Vite config with proxy
+    └── package.json
+```
+ 
+---
+ 
+## How to Run — Step by Step
+ 
+### Prerequisites
+- Python 3.9 or higher
+- Node.js 18 or higher
+- npm
+ 
+### Step 1 — Set Up Backend
+ 
+```powershell
+# Open Terminal 1
+cd mindguard/backend
+ 
+# Create virtual environment
+python -m venv venv
+ 
+# Activate (Windows)
+venv\Scripts\activate
+ 
+# Install dependencies
+pip install -r requirements.txt
+ 
+# Download NLTK data (run once only)
+python -c "import nltk; nltk.download('vader_lexicon'); nltk.download('stopwords'); nltk.download('punkt')"
+```
+ 
+### Step 2 — Start Backend
+ 
+```powershell
+# Still in mindguard/backend with venv active
+uvicorn app.main:app --reload 
+
+ 
+### Step 3 — Set Up Frontend
+ 
+```powershell
+# Open Terminal 2
+cd mindguard/frontend
+npm install
+```
+ 
+### Step 4 — Start Frontend
+ 
+```powershell
+npm run dev
+```

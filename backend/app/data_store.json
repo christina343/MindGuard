@@ -1,0 +1,882 @@
+{
+  "entries": [
+    {
+      "timestamp": "2026-04-23T01:33:27.078690",
+      "burnout_score": 0.407,
+      "risk_level": "Moderate",
+      "mood_score": 4.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 7.0,
+      "work_hours": 8.0,
+      "emotion": "positive",
+      "cognitive_load": 0.09,
+      "journal_preview": "I am feeling quite stressed today because of my upcoming exams. I didn't sleep w..."
+    },
+    {
+      "timestamp": "2026-04-23T01:40:24.849659",
+      "burnout_score": 0.407,
+      "risk_level": "Moderate",
+      "mood_score": 5.0,
+      "mood_delta": 0.1,
+      "sleep_hours": 7.0,
+      "work_hours": 8.0,
+      "emotion": "neutral",
+      "cognitive_load": 0.0,
+      "journal_preview": "ghjjjjjjjjjjjjjjjjjjbjjjn"
+    },
+    {
+      "timestamp": "2026-04-23T01:45:28.586033",
+      "burnout_score": 0.407,
+      "risk_level": "Moderate",
+      "mood_score": 5.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 7.0,
+      "work_hours": 8.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.15,
+      "journal_preview": "I feel very stressed and overwhelmed with work lately. I haven't been sleeping w..."
+    },
+    {
+      "timestamp": "2026-04-23T02:06:14.169070",
+      "burnout_score": 0.485,
+      "risk_level": "Moderate",
+      "mood_score": 5.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 7.0,
+      "work_hours": 5.5,
+      "emotion": "sad",
+      "cognitive_load": 0.122,
+      "journal_preview": "hey\num i don't know how i feel\ni have a test today\nand i have presentation too\na..."
+    },
+    {
+      "timestamp": "2026-04-23T12:29:04.521632",
+      "burnout_score": 0.485,
+      "risk_level": "Moderate",
+      "mood_score": 4.0,
+      "mood_delta": -0.1,
+      "sleep_hours": 5.0,
+      "work_hours": 7.0,
+      "emotion": "fatigued",
+      "cognitive_load": 0.15,
+      "journal_preview": "Today felt quite tiring. I studied for about 7 hours but couldn\u2019t focus properly..."
+    },
+    {
+      "timestamp": "2026-04-23T18:08:47.496545",
+      "burnout_score": 0.5,
+      "risk_level": "Moderate",
+      "mood_score": 6.0,
+      "mood_delta": 0.2,
+      "sleep_hours": 6.0,
+      "work_hours": 5.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.05,
+      "journal_preview": "i feel so stressed about everything what do i dooooooooo"
+    },
+    {
+      "timestamp": "2026-04-23T18:21:22.529745",
+      "burnout_score": 0.5,
+      "risk_level": "Moderate",
+      "mood_score": 7.0,
+      "mood_delta": 0.1,
+      "sleep_hours": 3.0,
+      "work_hours": 13.5,
+      "emotion": "positive",
+      "cognitive_load": 0.02,
+      "journal_preview": "my day was pretty good, i have few tests and i performed well but i am low on sl..."
+    }
+  ],
+  "jaqueen": [
+    {
+      "user_id": "jaqueen",
+      "timestamp": "2026-04-24T18:55:57.155447",
+      "burnout_score": 0.68,
+      "risk_level": "Moderate",
+      "mood_score": 3.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 5.0,
+      "work_hours": 8.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.965,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "exhausted",
+          "overwhelmed",
+          "stressed",
+          "worried"
+        ]
+      },
+      "journal_preview": "I have two exams coming up and I feel really stressed about them. I studied for ..."
+    },
+    {
+      "user_id": "jaqueen",
+      "timestamp": "2026-04-24T18:57:00.425440",
+      "burnout_score": 0.55,
+      "risk_level": "Moderate",
+      "mood_score": 4.0,
+      "mood_delta": 0.1,
+      "sleep_hours": 6.0,
+      "work_hours": 6.0,
+      "emotion": "neutral",
+      "cognitive_load": 0.195,
+      "keywords": {
+        "positive": [],
+        "negative": []
+      },
+      "journal_preview": "I tried studying today but I still feel unprepared for my exams. Even after putt..."
+    },
+    {
+      "user_id": "jaqueen",
+      "timestamp": "2026-04-24T18:57:26.220906",
+      "burnout_score": 0.615,
+      "risk_level": "Moderate",
+      "mood_score": 4.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 5.0,
+      "work_hours": 9.0,
+      "emotion": "fatigued",
+      "cognitive_load": 0.705,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "too much",
+          "drained"
+        ]
+      },
+      "journal_preview": "Today was really tiring even though I didn\u2019t have any exams. I worked for almost..."
+    },
+    {
+      "user_id": "jaqueen",
+      "timestamp": "2026-04-24T18:57:58.768594",
+      "burnout_score": 0.407,
+      "risk_level": "Moderate",
+      "mood_score": 5.0,
+      "mood_delta": 0.1,
+      "sleep_hours": 7.0,
+      "work_hours": 6.0,
+      "emotion": "positive",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [
+          "productive"
+        ],
+        "negative": []
+      },
+      "journal_preview": "Today was a normal day overall. I studied for a few hours and took decent breaks..."
+    },
+    {
+      "user_id": "jaqueen",
+      "timestamp": "2026-04-24T18:58:36.638201",
+      "burnout_score": 0.407,
+      "risk_level": "Moderate",
+      "mood_score": 8.0,
+      "mood_delta": 0.3,
+      "sleep_hours": 7.5,
+      "work_hours": 5.0,
+      "emotion": "positive",
+      "cognitive_load": 0.05,
+      "keywords": {
+        "positive": [
+          "good",
+          "confident",
+          "focused"
+        ],
+        "negative": [
+          "stressed"
+        ]
+      },
+      "journal_preview": "I had a really good day today. I managed to complete all my study tasks without ..."
+    },
+    {
+      "user_id": "jaqueen",
+      "timestamp": "2026-04-24T18:59:15.301458",
+      "burnout_score": 0.457,
+      "risk_level": "Moderate",
+      "mood_score": 7.0,
+      "mood_delta": -0.1,
+      "sleep_hours": 7.0,
+      "work_hours": 6.0,
+      "emotion": "positive",
+      "cognitive_load": 0.245,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "pressure"
+        ]
+      },
+      "journal_preview": "I have exams coming up but I feel more in control today. I followed a study plan..."
+    }
+  ],
+  "user777": [
+    {
+      "user_id": "user777",
+      "timestamp": "2026-04-24T01:45:12.060681",
+      "burnout_score": 0.58,
+      "risk_level": "Moderate",
+      "mood_score": 7.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 4.5,
+      "work_hours": 3.5,
+      "emotion": "positive",
+      "cognitive_load": 0.15,
+      "keywords": {
+        "positive": [
+          "happy"
+        ],
+        "negative": []
+      },
+      "journal_preview": "hey \ni'm happy today\nbut i'm having backpain\nso i feel kind of annoyed\ni don't k..."
+    },
+    {
+      "user_id": "user777",
+      "timestamp": "2026-04-24T01:54:25.582771",
+      "burnout_score": 0.407,
+      "risk_level": "Moderate",
+      "mood_score": 6.0,
+      "mood_delta": -0.1,
+      "sleep_hours": 7.0,
+      "work_hours": 2.5,
+      "emotion": "positive",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [
+          "good"
+        ],
+        "negative": []
+      },
+      "journal_preview": "hi good morning\ngood afternoon\ngood evening \ngood night"
+    }
+  ],
+  "jaq": [
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-24T19:16:36.996654",
+      "burnout_score": 0.284,
+      "risk_level": "Low Risk",
+      "mood_score": 2.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 7.0,
+      "work_hours": 3.0,
+      "emotion": "positive",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [
+          "motivated"
+        ],
+        "negative": []
+      },
+      "journal_preview": "I felt low today and didn\u2019t have much energy. It was hard to stay motivated and ..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-24T19:17:31.379146",
+      "burnout_score": 0.433,
+      "risk_level": "Mild Stress",
+      "mood_score": 5.0,
+      "mood_delta": 0.3,
+      "sleep_hours": 7.0,
+      "work_hours": 6.5,
+      "emotion": "stressed",
+      "cognitive_load": 0.295,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "stressed",
+          "pressure"
+        ]
+      },
+      "journal_preview": "The day started okay, but later I got stressed thinking about assignments. I man..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-24T19:24:27.366370",
+      "burnout_score": 0.644,
+      "risk_level": "Moderate Risk",
+      "mood_score": 2.0,
+      "mood_delta": -0.3,
+      "sleep_hours": 7.0,
+      "work_hours": 3.0,
+      "emotion": "sad",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [
+          "motivated"
+        ],
+        "negative": []
+      },
+      "journal_preview": "I felt low today and didn\u2019t have much energy. It was hard to stay motivated and ..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-24T19:26:43.928374",
+      "burnout_score": 0.644,
+      "risk_level": "Moderate Risk",
+      "mood_score": 2.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 7.0,
+      "work_hours": 3.0,
+      "emotion": "sad",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [
+          "motivated"
+        ],
+        "negative": []
+      },
+      "journal_preview": "I felt low today and didn\u2019t have much energy. It was hard to stay motivated and ..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-24T19:30:26.283282",
+      "burnout_score": 0.5,
+      "risk_level": "Mild Stress",
+      "mood_score": 2.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 7.0,
+      "work_hours": 3.0,
+      "emotion": "sad",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [
+          "motivated"
+        ],
+        "negative": []
+      },
+      "journal_preview": "I felt low today and didn\u2019t have much energy. It was hard to stay motivated and ..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-24T23:57:49.791497",
+      "burnout_score": 0.166,
+      "risk_level": "Low Risk",
+      "mood_score": 10.0,
+      "mood_delta": 0.8,
+      "sleep_hours": 9.0,
+      "work_hours": 1.0,
+      "emotion": "positive",
+      "cognitive_load": 0.1,
+      "keywords": {
+        "positive": [
+          "good"
+        ],
+        "negative": []
+      },
+      "journal_preview": "hii\ntoday i feel so good\ni don't have any upcoming exams\nand i have two days hol..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-25T00:04:22.827798",
+      "burnout_score": 0.157,
+      "risk_level": "Low Risk",
+      "mood_score": 9.0,
+      "mood_delta": -0.1,
+      "sleep_hours": 8.0,
+      "work_hours": 1.0,
+      "emotion": "positive",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [
+          "relaxed"
+        ],
+        "negative": []
+      },
+      "journal_preview": "I feel relaxed today. I don\u2019t have any exams right now and finished my work earl..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-25T00:16:26.711430",
+      "burnout_score": 0.164,
+      "risk_level": "Low Risk",
+      "mood_score": 9.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 8.0,
+      "work_hours": 5.0,
+      "emotion": "neutral",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [],
+        "negative": []
+      },
+      "journal_preview": "Today felt peaceful and productive. I finished my tasks on time and felt motivat..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-25T00:17:08.709556",
+      "burnout_score": 0.194,
+      "risk_level": "Low Risk",
+      "mood_score": 9.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 8.0,
+      "work_hours": 5.0,
+      "emotion": "neutral",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [],
+        "negative": []
+      },
+      "journal_preview": "Today felt peaceful and productive. I finished my tasks on time and felt motivat..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-25T00:20:44.865469",
+      "burnout_score": 0.447,
+      "risk_level": "Mild Stress",
+      "mood_score": 5.0,
+      "mood_delta": -0.4,
+      "sleep_hours": 12.0,
+      "work_hours": 16.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.05,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "stressed"
+        ]
+      },
+      "journal_preview": "ahhhh i feeel so stressed i dont know what to doooooo"
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-25T00:21:25.532710",
+      "burnout_score": 0.535,
+      "risk_level": "Moderate Risk",
+      "mood_score": 4.0,
+      "mood_delta": -0.1,
+      "sleep_hours": 4.0,
+      "work_hours": 11.5,
+      "emotion": "stressed",
+      "cognitive_load": 0.345,
+      "keywords": {
+        "positive": [],
+        "negative": []
+      },
+      "journal_preview": "I'm dead serious about finishing this project."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-25T15:57:40.603116",
+      "burnout_score": 0.703,
+      "risk_level": "High Risk",
+      "mood_score": 3.0,
+      "mood_delta": -0.1,
+      "sleep_hours": 5.0,
+      "work_hours": 9.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.2,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "stressed"
+        ]
+      },
+      "journal_preview": "Today felt really overwhelming. I studied for long hours but still feel like I d..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-25T18:28:10.944417",
+      "burnout_score": 0.2,
+      "risk_level": "Low Risk",
+      "mood_score": 8.0,
+      "mood_delta": 0.5,
+      "sleep_hours": 8.0,
+      "work_hours": 4.0,
+      "emotion": "positive",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [
+          "happy",
+          "good"
+        ],
+        "negative": []
+      },
+      "journal_preview": "hii\ntoday i feel kinda happy\nbecause i had a really good sleep\ni slept for 8 hou..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-04-27T10:21:17.641596",
+      "burnout_score": 0.469,
+      "risk_level": "Mild Stress",
+      "mood_score": 5.0,
+      "mood_delta": -0.3,
+      "sleep_hours": 7.0,
+      "work_hours": 8.0,
+      "emotion": "fatigued",
+      "cognitive_load": 0.42,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "exhausted",
+          "tired"
+        ]
+      },
+      "journal_preview": "Hi, today I'm feeling so tired and exhausted."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-03T22:08:03.133431",
+      "burnout_score": 0.148,
+      "risk_level": "Low Risk",
+      "mood_score": 9.0,
+      "mood_delta": 0.4,
+      "sleep_hours": 8.0,
+      "work_hours": 1.0,
+      "emotion": "positive",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [
+          "happy"
+        ],
+        "negative": []
+      },
+      "journal_preview": "so\ni came home\nand i wanted to eat parota so much \nand i ate it\ni feel so happy\n..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-03T22:11:57.558261",
+      "burnout_score": 0.342,
+      "risk_level": "Mild Stress",
+      "mood_score": 10.0,
+      "mood_delta": 0.1,
+      "sleep_hours": 12.0,
+      "work_hours": 16.0,
+      "emotion": "neutral",
+      "cognitive_load": 0.195,
+      "keywords": {
+        "positive": [],
+        "negative": []
+      },
+      "journal_preview": "hey idk what i'm doing i'm just testing this"
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-03T23:15:11.094078",
+      "burnout_score": 0.312,
+      "risk_level": "Mild Stress",
+      "mood_score": 5.0,
+      "mood_delta": -0.5,
+      "sleep_hours": 6.5,
+      "work_hours": 0.0,
+      "emotion": "neutral",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [],
+        "negative": []
+      },
+      "journal_preview": "aaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaaaaa"
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-04T00:19:31.991684",
+      "burnout_score": 0.3,
+      "risk_level": "Low Risk",
+      "mood_score": 8.0,
+      "mood_delta": 0.3,
+      "sleep_hours": 8.0,
+      "work_hours": 4.0,
+      "emotion": "positive",
+      "cognitive_load": 0.395,
+      "keywords": {
+        "positive": [
+          "happy",
+          "great"
+        ],
+        "negative": [
+          "burnt out"
+        ]
+      },
+      "journal_preview": "I am honestly having a great day and feeling quite happy right now, but I am jus..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-04T00:20:07.650114",
+      "burnout_score": 1.0,
+      "risk_level": "Severe Burnout Warning",
+      "mood_score": 1.0,
+      "mood_delta": -0.7,
+      "sleep_hours": 2.0,
+      "work_hours": 15.0,
+      "emotion": "fatigued",
+      "cognitive_load": 0.8,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "overwhelmed",
+          "pressure",
+          "hopeless",
+          "too much"
+        ]
+      },
+      "journal_preview": "I can't do this anymore. I am completely overwhelmed, feeling hopeless, and I ju..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-04T19:10:50.773006",
+      "burnout_score": 1.0,
+      "risk_level": "Severe Burnout Warning",
+      "mood_score": 1.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 2.0,
+      "work_hours": 15.0,
+      "emotion": "fatigued",
+      "cognitive_load": 0.8,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "overwhelmed",
+          "pressure",
+          "hopeless",
+          "too much"
+        ]
+      },
+      "journal_preview": "I can't do this anymore. I am completely overwhelmed, feeling hopeless, and I ju..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-04T19:15:29.144702",
+      "burnout_score": 1.0,
+      "risk_level": "Severe Burnout Warning",
+      "mood_score": 1.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 2.0,
+      "work_hours": 15.0,
+      "emotion": "fatigued",
+      "cognitive_load": 0.8,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "overwhelmed",
+          "pressure",
+          "hopeless",
+          "too much"
+        ]
+      },
+      "journal_preview": "I can't do this anymore. I am completely overwhelmed, feeling hopeless, and I ju..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-04T21:48:33.782878",
+      "burnout_score": 1.0,
+      "risk_level": "Severe Burnout Warning",
+      "mood_score": 1.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 2.0,
+      "work_hours": 15.0,
+      "emotion": "fatigued",
+      "cognitive_load": 0.8,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "overwhelmed",
+          "pressure",
+          "hopeless",
+          "too much"
+        ]
+      },
+      "journal_preview": "I can't do this anymore. I am completely overwhelmed, feeling hopeless, and I ju..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-04T21:49:55.037694",
+      "burnout_score": 0.478,
+      "risk_level": "Mild Stress",
+      "mood_score": 5.0,
+      "mood_delta": 0.4,
+      "sleep_hours": 5.5,
+      "work_hours": 4.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.395,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "stressed"
+        ]
+      },
+      "journal_preview": "i have a presentation tomorrow i feel so stressed idk what to do"
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-05T00:28:43.486665",
+      "burnout_score": 0.49,
+      "risk_level": "Mild Stress",
+      "mood_score": 5.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 5.0,
+      "work_hours": 8.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.395,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "stressed"
+        ]
+      },
+      "journal_preview": "my sem exams will start next week and i have just started the preparation today...."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-05T00:38:48.437677",
+      "burnout_score": 0.568,
+      "risk_level": "Moderate Risk",
+      "mood_score": 3.0,
+      "mood_delta": -0.2,
+      "sleep_hours": 7.0,
+      "work_hours": 3.5,
+      "emotion": "sad",
+      "cognitive_load": 0.195,
+      "keywords": {
+        "positive": [],
+        "negative": []
+      },
+      "journal_preview": "hey i am sad.  and i have exams."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-05T00:42:33.579840",
+      "burnout_score": 0.198,
+      "risk_level": "Low Risk",
+      "mood_score": 9.0,
+      "mood_delta": 0.6,
+      "sleep_hours": 8.5,
+      "work_hours": 1.0,
+      "emotion": "positive",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [
+          "happy"
+        ],
+        "negative": []
+      },
+      "journal_preview": "i am happy today because i went home."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-05T00:50:44.595147",
+      "burnout_score": 0.466,
+      "risk_level": "Mild Stress",
+      "mood_score": 5.0,
+      "mood_delta": -0.4,
+      "sleep_hours": 5.5,
+      "work_hours": 9.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.395,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "stressed"
+        ]
+      },
+      "journal_preview": "i have exams from next week  i feel so stressed about that."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-05T00:53:37.929115",
+      "burnout_score": 0.503,
+      "risk_level": "Moderate Risk",
+      "mood_score": 4.0,
+      "mood_delta": -0.1,
+      "sleep_hours": 5.0,
+      "work_hours": 9.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.395,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "stressed"
+        ]
+      },
+      "journal_preview": "i feel so stressed i have an  exam tommorrow  and i just started studying today."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-05T01:18:28.656638",
+      "burnout_score": 0.462,
+      "risk_level": "Mild Stress",
+      "mood_score": 4.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 5.5,
+      "work_hours": 7.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.25,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "overwhelmed",
+          "stressed"
+        ]
+      },
+      "journal_preview": "I felt really stressed today. I had a lot of work to complete and couldn\u2019t focus..."
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-05T01:21:16.106227",
+      "burnout_score": 0.58,
+      "risk_level": "Moderate Risk",
+      "mood_score": 2.0,
+      "mood_delta": -0.2,
+      "sleep_hours": 7.0,
+      "work_hours": 1.0,
+      "emotion": "sad",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [],
+        "negative": []
+      },
+      "journal_preview": "hi me sad idk why tho"
+    },
+    {
+      "user_id": "jaq",
+      "timestamp": "2026-05-05T11:08:19.845138",
+      "burnout_score": 0.496,
+      "risk_level": "Mild Stress",
+      "mood_score": 4.0,
+      "mood_delta": 0.2,
+      "sleep_hours": 5.5,
+      "work_hours": 6.0,
+      "emotion": "stressed",
+      "cognitive_load": 0.395,
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "stressed"
+        ]
+      },
+      "journal_preview": "i have an exam tomorrow i feel  so stressed"
+    }
+  ],
+  "guest": [
+    {
+      "user_id": "guest",
+      "timestamp": "2026-05-04T00:21:01.628346",
+      "burnout_score": 0.14,
+      "risk_level": "Low Risk",
+      "mood_score": 9.0,
+      "mood_delta": 0.0,
+      "sleep_hours": 10.0,
+      "work_hours": 0.0,
+      "emotion": "neutral",
+      "cognitive_load": 0.0,
+      "keywords": {
+        "positive": [],
+        "negative": []
+      },
+      "journal_preview": "Today is a holiday so I didn't study at all. I spent the whole day resting, catc..."
+    },
+    {
+      "user_id": "guest",
+      "timestamp": "2026-05-04T00:22:14.979295",
+      "burnout_score": 0.454,
+      "risk_level": "Mild Stress",
+      "mood_score": 5.0,
+      "mood_delta": -0.4,
+      "sleep_hours": 5.0,
+      "work_hours": 13.0,
+      "emotion": "neutral",
+      "cognitive_load": 0.15,
+      "keywords": {
+        "positive": [],
+        "negative": []
+      },
+      "journal_preview": "i am fine i am fine i am fine"
+    }
+  ]
+}
